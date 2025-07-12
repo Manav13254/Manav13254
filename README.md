@@ -62,4 +62,41 @@
 
 </table>
 
+
+---
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Manav13254&show_icons=true&hide_border=true&theme=nord" width="47%" />
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav13254&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord" width="47%" />
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manav13254&theme=github-compact&hide_border=true&area=true" width="94%"/>
+
 </div>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manav-jobanputra-814a1629a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jobanputramanav9@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Gmail" />
+  </a>
+</p>
+
+
+
+
+

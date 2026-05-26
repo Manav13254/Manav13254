@@ -82,13 +82,6 @@ Production-grade support ticket routing system built from scratch. Reads custome
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manav13254)
 
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manav13254&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 </div>
